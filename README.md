@@ -43,5 +43,12 @@ Binge leverages advanced machine learning algorithms to suggest recipes based on
     - Image label analysis
   - **JSON Data Handling:**
     - Reading and processing data from JSON format.
-   
+
+
 ![bingeCard](https://github.com/user-attachments/assets/bf41be06-9354-42fa-a3c5-0dcce5da253f)
+![bingeCard-3](https://github.com/user-attachments/assets/77367be1-9ee9-4687-ba76-94aad8bcb1a2)
+![bingeCard-2](https://github.com/user-attachments/assets/453b98fe-ebfd-4027-8d79-9cbb166d9667)
+
+https://github.com/user-attachments/assets/7d07e8da-580d-4b4c-bb38-fb15eb548e3c
+
+
