@@ -18,7 +18,7 @@ Binge leverages advanced machine learning algorithms to suggest recipes based on
 
 - **🤖 Machine Learning Preference:**
   - Develops a personalized machine learning classifier that updates based on user feedback (likes/dislikes).
-  - Provides real-time predictions using a decision tree built from the J48 algorithm.
+  - Provides real-time predictions using a decision tree built from Weka's J48 algorithm.
   - Continuously improves prediction accuracy with increased user data.
 
 - **👤 User-Based Application:**
