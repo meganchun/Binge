@@ -49,6 +49,6 @@ Binge leverages advanced machine learning algorithms to suggest recipes based on
 ![bingeCard-3](https://github.com/user-attachments/assets/77367be1-9ee9-4687-ba76-94aad8bcb1a2)
 ![bingeCard-2](https://github.com/user-attachments/assets/453b98fe-ebfd-4027-8d79-9cbb166d9667)
 
-https://github.com/user-attachments/assets/7d07e8da-580d-4b4c-bb38-fb15eb548e3c
+https://github.com/user-attachments/assets/7d909225-de41-4c93-9ccc-7cf5c76a0c0f
 
 
